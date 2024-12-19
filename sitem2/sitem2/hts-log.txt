@@ -1,0 +1,12 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 18 Dec 2024 22:53:51 at https://html.themestransmit.com/minfo-tailwind/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwr20C2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A250000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "tr, en, *" https://html.themestransmit.com/minfo-tailwind/index.html -O1 "C:\Users\aliri\Desktop\sitem2\sitem2" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:54:22	Error: 	"Not Found" (404) at link https://html.themestransmit.com/minfo-tailwind/mycv.pdf (from https://html.themestransmit.com/minfo-tailwind/index.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 48 seconds : 91 links scanned, 89 files written (27740682 bytes overall) [17848036 bytes received at 371834 bytes/sec], 14906262 bytes transferred using HTTP compression in 28 files, ratio 33%, 22.7 requests per connection
+(1 errors, 0 warnings, 0 messages)
